@@ -1,6 +1,7 @@
 # AmazingAI
 Project on a set of library methods of artificial intelligence.
-Initiated by Articial Intelligence Lab, Telecom University, Indonesia.
+
+Initiated by Articial Intelligence Lab, Telkom University, Indonesia.
 
 # Contribution Flow
 The first thing you should do is of course to create an account and [install git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) on your device.
