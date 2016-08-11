@@ -17,13 +17,13 @@ git checkout -b updateReadme
 ```
 git add .
 ```
-- Commit your changes on your branch,
+- Commit your changes on your branch.
 ```
 git commit -m "gives your comment of your commit here"
 ```
-- After all looks good, push your branch (don't forget to pull from `master` first before push)
+- After all looks good, push your branch.
 ```
 git push -u origin newFeatureBranch
 ```
-- Create Pull Request from your branch to master
-- Wait reviewer to check your Pull Request and merge to the master
+- Create Pull Request from your branch to master.
+- Wait reviewer to check your Pull Request and merge to the master.
