@@ -9,13 +9,16 @@ After that, [clone](https://git-scm.com/book/en/v2/Git-Basics-Getting-a-Git-Repo
 
 This repository development requires you to use [Branching WorkFlows](https://git-scm.com/book/en/v2/Git-Branching-Branching-Workflows), in brief:
 
-- Create your own branch from `master`
+- Create your own branch from `master`, the branch describes what you want to develop, such as `updateRedme` or `initMainANN`, etc.
 ```
-git checkout -b newFeatureBranch
+git checkout -b updateReadme
 ```
-- Commit your changes on your branch
+- Add your files that has been modified by you. 
 ```
 git add .
+```
+- Commit your changes on your branch,
+```
 git commit -m "gives your comment of your commit here"
 ```
 - After all looks good, push your branch (don't forget to pull from `master` first before push)
