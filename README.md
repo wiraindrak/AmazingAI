@@ -17,6 +17,12 @@ git checkout -b updateReadme
 ```
 git add .
 ```
+
+or you can add a specific file
+```
+git add README.md
+```
+
 - Commit your changes on your branch.
 ```
 git commit -m "gives your comment of your commit here"
